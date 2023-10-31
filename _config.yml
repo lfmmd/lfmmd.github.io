@@ -74,7 +74,7 @@ sidebar-about-description: "凉粉的日记。"
 
 # QRcode settings
 qrcode: true # whether or not showing QRcode
-qrcode-ios-description: Group I (iOS/macOS)  # TC Group => Technical Communication Group
+qrcode-ios-description: Group I (machine)  # TC Group => Technical Communication Group
 #qrcode-other-description: Group II (Other Dev Language) # TC Group => Technical Communication Group
 
 
